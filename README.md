@@ -17,5 +17,5 @@ I am committed to creating software solutions that deliver value, enhance user e
 
 ### **Let's Connect!**  
 - **GitHub Projects:** Explore my work in microservices, cloud-native development, and AI integrations.  
-- **LinkedIn:** [https://www.linkedin.com/in/ramamundru/]  
+- **LinkedIn:** https://www.linkedin.com/in/ramamundru/
 - **Email:** rk.mundru@gmail.com
